@@ -6,12 +6,7 @@
 
 ## ABOUT :books:
 
-I always hated generating different app icons of different sizes for different platforms manually using Photoshop. So, I decided to automate that process.
-This tool, written in Python, my native language, lets you do just that. Currently supported platforms for generation of icon sets are:
-
-- Mac OSX
-- Android
-- Windows
+Generating icons for Flutter projects manually always seemed a bit tedious! To make this process a bit easier and faster, I wrote this tool, which automates the whole process.
 
 ## USAGE :hammer:
 
