@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "iconhelper"
+version = "1.0.0"
+description = "A tool to help you generate all the different icon sets you need for a Flutter application."
+authors = ["angeldollface"]
+readme = "README.markdown"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Pillow = "^9.3.0"
+colorama = "^0.4.6"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
