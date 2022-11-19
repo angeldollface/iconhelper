@@ -16,6 +16,6 @@ jobs:
       - name: Installing the project.
         run: |
           python -m pip install git+https://github.com/angeldollface/iconhelper
-      - name: Trying to download a file.
+      - name: Trying to generate some icons.
         run: |
-          python -m --source test/sample.png --platform MacOS && ls distMacOS
+          python -m iconhelper --source test/sample.png --platform MacOS && ls distMacOS
