@@ -28,7 +28,7 @@ python -m pip install git+https://github.com/angeldollface/iconhelper
 
 ### USING *ICON HELPER* TO DOWNLOAD A FILE
 
-To download a file, simply run this command (Here `mypng.png` represents a path to a PNG file.):
+To generate some icons for a project, simply run this command (Here `mypng.png` represents a path to a PNG file.):
 
 ```bash
 # For Mac OSX.
