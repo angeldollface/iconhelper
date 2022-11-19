@@ -32,13 +32,13 @@ To download a file, simply run this command (Here `mypng.png` represents a path 
 
 ```bash
 # For Mac OSX.
-python -m python iconhelper --source mypng.png --platform MacOS
+python -m iconhelper --source mypng.png --platform MacOS
 
 # For Android.
-python -m python iconhelper --source mypng.png --platform Android
+python -m iconhelper --source mypng.png --platform Android
 
 # For Windows.
-python -m python iconhelper --source mypng.png --platform Windows
+python -m iconhelper --source mypng.png --platform Windows
 ```
 
 ### CONSTRAINTS
